@@ -31,9 +31,13 @@ a {
 }
 
 .container3 {
-    margin-top: 310px;     
+    margin-top: 50px;     
 }
 
 .family_picture {   
     margin-left:150px;
+}
+.selfport {
+    margin-left:300px;
+    margin-top:-75px;
 }
